@@ -1,7 +1,5 @@
 # Jialong Wang
 
-M.Eng. Electrical and Computer Engineering at the University of Ottawa.
-
 My work is mainly in embedded systems, firmware bring-up, RTOS-based software, and low-level debugging. I have completed three internships at Apple across firmware, system validation, and software engineering roles.
 
 ## Focus Areas
