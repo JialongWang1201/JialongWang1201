@@ -1,4 +1,4 @@
-## about me
+# about me
 
 I gravitate to the lowest layers: clocks, registers, buses, and the thin slice of firmware that makes hardware honest. Most of my work is bring-up, driver debugging, and building repeatable validation pipelines. I like systems that can explain themselves, where every log line and timing edge has a reason.
 
@@ -47,7 +47,7 @@ I gravitate to the lowest layers: clocks, registers, buses, and the thin slice o
 
 ### personal notes
 
-[![myself](https://img.shields.io/badge/myself-2d2d2d?style=flat-square&logoColor=white)](https://jialongwang1201.github.io/myself/)
+**[→ myself](https://jialongwang1201.github.io/myself/)**
 
 ---
 
