@@ -45,4 +45,10 @@ I gravitate to the lowest layers: clocks, registers, buses, and the thin slice o
 
 ---
 
-[jerrywang1201@gmail.com](mailto:jerrywang1201@gmail.com) · [linkedin](https://linkedin.com/in/jw1201) · [website](https://jialongwang1201.github.io/myself/)
+### personal notes
+
+[![myself](https://img.shields.io/badge/myself-2d2d2d?style=flat-square&logoColor=white)](https://jialongwang1201.github.io/myself/)
+
+---
+
+[jerrywang1201@gmail.com](mailto:jerrywang1201@gmail.com)
