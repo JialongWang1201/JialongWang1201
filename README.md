@@ -1,6 +1,6 @@
-# jialongwang1201
+## about me
 
-> firmware engineer · embedded systems · rtos · low-level debugging
+I gravitate to the lowest layers: clocks, registers, buses, and the thin slice of firmware that makes hardware honest. Most of my work is bring-up, driver debugging, and building repeatable validation pipelines. I like systems that can explain themselves, where every log line and timing edge has a reason.
 
 ---
 
