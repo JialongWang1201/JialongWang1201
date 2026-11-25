@@ -34,7 +34,6 @@ I gravitate to the lowest layers: clocks, registers, buses, and the thin slice o
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-2d2d2d?style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### exploring
 
